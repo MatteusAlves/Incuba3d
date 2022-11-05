@@ -1,0 +1,42 @@
+footer{
+    background-color: #E0E0E0;
+    border-top: 5px solid #F2D22E;
+    padding: 20px 0;
+}
+
+.footerrodape {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+}
+
+.rodape1 {
+    width: 980px;
+    margin: auto;
+}
+
+.ladoesquerdo {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px
+
+}
+
+.centro {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ladodireito {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
+
+.logorodape1 {
+    width: 100px;
+
+}
+
+.espaçamento {
+    padding: 2px;
+}

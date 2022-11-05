@@ -1,0 +1,48 @@
+header {
+    border-bottom: 5px solid #F2D22E;
+    background-color: #E0E0E0;
+}
+
+.logo {
+    width: 160px;
+}
+
+
+.caixa {
+    position: relative;
+    width: 980px;
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+nav {
+    position: absolute;
+    top: 90px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #35748C;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    border-top: 5px solid #F2D22E;
+    text-decoration: none;
+}
+
+nav a:visited {
+    background-color: #F2D22E;
+    border-color: #F2D22E;
+    color: #35748C;
+}
+
+
